@@ -12,6 +12,15 @@
     box-sizing: border-box;
 }
 
+#imagem-chef {
+    height: 100%;
+}
+
+#main-img {
+    height: 100%;
+    width: 100%;
+}
+
 /*Event Form*/
 #chef-description {
     background: linear-gradient(rgba(0, 0, 0, 0.573), rgba(0, 0, 0, 0.573)), url("../img/img15.jpeg");
